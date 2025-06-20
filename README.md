@@ -3,3 +3,16 @@
 
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+
+public class ColoredPoint extends Point {
+    private Color color;
+    public ColoredPoint(int x, int y, Color color) {
+        super(x, y); 
+        this.color = color;
+    }
+	
+    @Override
+    public boolean equals(Object that) {
+        // TODO: Diese Methode gilt es zu implementieren.
+    }
+}

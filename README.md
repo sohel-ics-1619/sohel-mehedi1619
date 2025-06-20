@@ -4,15 +4,17 @@
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
-public class ColoredPoint extends Point {
-    private Color color;
-    public ColoredPoint(int x, int y, Color color) {
-        super(x, y); 
-        this.color = color;
+public class Point {
+    private int x;
+    private int y;
+    public Point(int x, int y) { 
+        this.x = x; 
+        this.y = y; 
     }
 	
     @Override
     public boolean equals(Object that) {
-        // TODO: Diese Methode gilt es zu implementieren.
+        // Kompaktere Schreibweise.
+        return that instanceof Point && ((Point)that).x == x && ((Point)that).y == y;
     }
 }

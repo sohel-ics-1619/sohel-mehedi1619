@@ -5,6 +5,7 @@
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 
+<!-- Social -->
 <table width="100%" align="center">
 <tr>
 <td align="center">

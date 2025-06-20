@@ -13,7 +13,6 @@
 <br/>
 
 
-- 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, CI/CD) roles**
 
 <br/><br/>
 

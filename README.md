@@ -5,10 +5,6 @@
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 
-<p>
-
 <img alt="Globe" height="80" src="images/globe.gif">
 </a>
 </p>
-
-</td>

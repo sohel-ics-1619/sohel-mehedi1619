@@ -4,17 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
-public class Point {
-    private int x;
-    private int y;
-    public Point(int x, int y) { 
-        this.x = x; 
-        this.y = y; 
-    }
-	
-    @Override
-    public boolean equals(Object that) {
-        // Kompaktere Schreibweise.
-        return that instanceof Point && ((Point)that).x == x && ((Point)that).y == y;
-    }
-}
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>

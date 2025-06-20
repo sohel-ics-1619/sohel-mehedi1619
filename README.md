@@ -5,27 +5,11 @@
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
-</td>
-
-
+<table width="100%" align="center">
+<tr>
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
 <br />
 <br />
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
-</table>
+<br />

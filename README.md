@@ -11,3 +11,13 @@
 <-->
 
 <br/>
+
+
+- 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, CI/CD) roles**
+
+<br/><br/>
+
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
